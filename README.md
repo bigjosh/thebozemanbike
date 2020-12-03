@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-4ZPLezkTZTsojWFhpdFembdzFudphhoOzIunR1wH6g1WQDzCAiPvDyitaK67mp0+" crossorigin="anonymous">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 # The Bozeman Bike
 
 The Bozeman Bike will launch on Dec 2nd! Please check back then!
