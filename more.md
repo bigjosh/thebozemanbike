@@ -1,6 +1,4 @@
-<center>
 ![the bike](bike.jpg)
-</center>
 
 ## How much does it cost?
 Free.
@@ -31,4 +29,4 @@ I usually rent a bike from the excelent [Challet Sports](https://chaletsportsmt.
 Buying it was cheaper than renting would have been, so I bought it. When it was time to go, I thought it would be a fun way to keep it alive until I come back. 
 
 Become a Bozeman Bike Buddie! Sign up here for updates!...
-<iframe width="540" height="305" src="https://70ecad9a.sibforms.com/serve/MUIEAL070DqW3cfLU3-t1LjNIgMCmU6olwI2YYjbA4XziV3e1vWgJAxvS_NFPtxUKF9FzFxkmM5qe5sIAgLovf2Ypi4BQmQO4_3v1Y7tKPrADK2Ln9iS_Sc6n1efsn8nBzGJnbcoDxixMHaBYe3fhWHXRyyW33Lv2jwsM-wL6G7Qfe2mL9r9B__OSrb4gZHXxC72PD8-4F3ti0H1" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+<iframe width="540" src="https://70ecad9a.sibforms.com/serve/MUIEAL070DqW3cfLU3-t1LjNIgMCmU6olwI2YYjbA4XziV3e1vWgJAxvS_NFPtxUKF9FzFxkmM5qe5sIAgLovf2Ypi4BQmQO4_3v1Y7tKPrADK2Ln9iS_Sc6n1efsn8nBzGJnbcoDxixMHaBYe3fhWHXRyyW33Lv2jwsM-wL6G7Qfe2mL9r9B__OSrb4gZHXxC72PD8-4F3ti0H1" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
