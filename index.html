@@ -9,15 +9,18 @@ body {
   text-align: center;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
-  line-height: 1.6;
+  padding:0;
+  margin:0;
 }
 
 li:not(:last-child) {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }    
  
 li { 
 	text-align: left; 
+  line-height: 1.4;
+  
 }
 
 
@@ -25,7 +28,6 @@ li {
     text-align: left;
     display: inline-block;
     font-size: 150%;
-    margin: 20px auto;
     padding: 30px;
   }
   
@@ -34,37 +36,94 @@ li {
   font: bold 21px Arial;
   text-decoration: none;
   background-color: #EEEEEE;
-  color: #333333;
+  color: #000000;
   padding: 2px 6px 2px 6px;
   border-top: 1px solid #CCCCCC;
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
 }  
+
+.rotatedletter {
+    height:6px;
+    line-height:10px;
+    position:relative;
+    display:block;
+    float:left;
+}
   
 
 </style>
 
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
-
 </head>
 <body>
+<br>
+<div style="background-color: #000000; margin:0px; padding:0px;">
+<div style="margin: auto ;display:inline-block; text-align:center; padding: 0px; ">
+<h1 id="banner" class="rotatedletter" style="font-family: 'Impact', sans-serif;">THE BOZEMAN BIKE</h1>
+</div>
+</div>
+<p><i>Community Bicycle</i></p>
 
-<h1 style="font-family: 'Anton', sans-serif;">THE BOZEMAN BIKE</h1>
-<p>A community bike for everyone</p>
-<div id="content">
-<ol>
-<li>Text a selfie with you and the bike to <a class="button" style="background-color: #B9975B" href="sms:406-200-8589">406-200-8589</a>.</li>
+<ol id="content">
+<li>Text a selfie of you and the bike to &nbsp <a class="button" style="color: #000000; background-color: #B9975B" href="sms:406-200-8589">406-200-8589</a>.</li>
 <li>If I am awake, I will text you back with the lock combination.</li>
 <li>Ride around.</li>
 <li>Lock the bike up someplace public so the next person can find it.</li>
 <li>Text me again to LMK that you are done with it.</li>
 
 </ol>
-</div>
+<hr>
+<div style="padding-left: 50px; padding-right: 50px; font-family: Garamond, serif;">Note that if you do not get a text back within a minute then I am probably asleep so try again later. I am usually awake about 10AM-1AM MT.</div>
+<hr>
+<a class="button" href="more.html">More info</a>
+<script type="text/javascript">
 
-Note that if you do not get a text back within a minute then I am probably asleep so try again later. I am usually awake 10AM-1AM MT.
+  function isLetter(str) {
+    return str.match(/[a-z]/i);
+  }
+
+	const banner = document.getElementById("banner");
+    
+  bannerText = banner.innerHTML;
+  bannerTextLen = bannerText.length;
+  newBannerText = "";
+  
+
+  for (i=0; i<bannerTextLen; i++)
+  {
+     
+    letter = bannerText[i];
+    
+    if ( ! isLetter(letter) ) {
+    
+     	newBannerText += '<span style="' +
+      'margin-right:0.2em;' +
+			'float:left;' +
+      'display:block;' +      
+      '">&nbsp</span>';
+    
+    } else {
+    
+    	rot = Math.trunc((Math.random()-0.5)*10);
+  
+      newBannerText += '<span style="position:relative;' + 
+        'top :' + ( Math.random() > 0.8 ? ((Math.random()-0.5)/5 ) + 'em;' : ' 0em') +';' + 
+        '-webkit-transform: rotate( ' + rot +'deg);' +
+        '-moz-transform: rotate( '+ rot + 'deg);' +
+        'float:left;' +
+        'display:block;' +
+        'margin-right:0.01em;' +
+        '">' + letter  + '</span>';
+        
+    }
+
+}
+
+  banner.innerHTML = newBannerText;
+  
+  
+</script>
 
 <!-- Default Statcounter code for bozeman bike
 http://thebozemanbike.com -->
