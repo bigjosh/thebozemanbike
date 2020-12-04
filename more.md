@@ -13,20 +13,20 @@ It doesn't.
 Your conscience. 
 
 ## How far can I go?
-As far as your imagination (and your legs) will take you, just please return it back to town when you are done.
+As far as your imagination will take you- as long as you return it back to town when you are done.
 
 ## What is the longest I can use it for?
-If you have to ask, then it is probably too long. Let other people use it too!
+If you have to ask, then it is probably too long. Let other people use it too.
 
 ## How can I turn an extra bike that have into a Bozeman Bike?
-Text me at the number on this [page](https://thebozemanbike.com). 
+Text me at the number on this [page](https://thebozemanbike.com) and we will pow wow. 
 
 ## Why?
-Half social experiement, half performace art peice? Why do you care?
+Social experiement. Performace art peice. Too lazy to sell on craigslist.
 
 ## What is the back story?
-I usually rent a bike from the excelent [Challet Sports](https://chaletsportsmt.com/) when I am in town, but this time I saw a bike outside of the Action Pawn. 
-Buying it was cheaper than renting would have been, so I bought it. When it was time to go, I thought it would be a fun way to keep it alive until I come back. 
+Thanks to a serindipitus pawn shop encounter, I came into a bike that was cheaper to buy than to rent. That very same pawn shop bike would someday become The Bozeman Bike you all now know and love.
 
-Become a Bozeman Bike Buddie! Sign up here for updates!...
-<iframe width="540" height="305" src="https://70ecad9a.sibforms.com/serve/MUIEAF5XExnSoKVFhbZte3Zr60uzPNMKKfMh5w9TXkKr8RyXgobMLyKS4vaF2a-OFr5Nb-Dx07LgtTyF7nYgYpFux6U_vO9O6TQ3ScC1U5TMuj5q9Dl7zCJ35ze-NB27MHNBg-lvcTj2WPYOpKy77A5QKxYU_Jh_9TOuPAjAWWXsl51sb_ryvRBvd5pPsQB5zdnmtKtTekq1F0h4" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+## How can I keep up to date with the latest Bozeman Bike news?
+Become a Bozeman Bike Buddie by filling out this form...
+<iframe width="540" height="405" src="https://70ecad9a.sibforms.com/serve/MUIEAGa41XOQoClYsvM9wqaK98h3LJjav36ZPVPgH5ZCUNHzMnDwh2Qq0KlkUfeTiasRXgVYNA3Izo3MZH0B7qQjYRCvNAh365zAta7vLlpPee32O32b_nDn0NHTjpRwChlQNCojx3-NH2akvaNyNFY1RjAF0KYPoKCrUpgm5cYWErR43BzVo_4vzpyG3S_DJ6n2GHNZ9FDCFkUa" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
