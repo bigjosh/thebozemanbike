@@ -30,3 +30,20 @@ Thanks to a serindipitus pawn shop encounter, I came into a bike that was cheape
 ## How can I keep up to date with the latest Bozeman Bike news?
 Become a Bozeman Bike Buddie by filling out this form...
 <iframe width="540" height="405" src="https://70ecad9a.sibforms.com/serve/MUIEAGa41XOQoClYsvM9wqaK98h3LJjav36ZPVPgH5ZCUNHzMnDwh2Qq0KlkUfeTiasRXgVYNA3Izo3MZH0B7qQjYRCvNAh365zAta7vLlpPee32O32b_nDn0NHTjpRwChlQNCojx3-NH2akvaNyNFY1RjAF0KYPoKCrUpgm5cYWErR43BzVo_4vzpyG3S_DJ6n2GHNZ9FDCFkUa" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+
+<!-- Default Statcounter code for bozeman bike
+http://thebozemanbike.com -->
+<script type="text/javascript">
+var sc_project=12439767; 
+var sc_invisible=1; 
+var sc_security="09619033"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12439767/0/09619033/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
