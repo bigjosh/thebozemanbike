@@ -28,8 +28,7 @@ Social experiement. Performace art peice. Too lazy to sell on craigslist.
 Thanks to a serindipitus pawn shop encounter, I came into a bike that was cheaper to buy than to rent. That very same pawn shop bike would someday become The Bozeman Bike you all now know and love.
 
 ## How can I keep up to date with the latest Bozeman Bike news?
-Become a Bozeman Bike Buddie by <a href = "mailto:bbbb@thebozemanbike.com?subject=The%20Bozeman%20Bike%20Buddie%20Program&body=I desperately want to become a Bozeman Bike Buddie. I herby pledge to you that I will strive each and every day to prove that I am worthy of this honor. Thank you for making all of this this possible.%0D%0AYour friend and confidant,%0D%0A[your name here]">clicking here</a>
-.
+Become a Bozeman Bike Buddie by <a href = "mailto:bbbb@thebozemanbike.com?subject=The%20Bozeman%20Bike%20Buddie%20Program&body=Please keep me updated on all important news and gossip concerning The Bozeman Bike.%0D%0AYour friend,%0D%0A[your name here]">clicking here</a>.
 
 <!-- Default Statcounter code for bozeman bike
 http://thebozemanbike.com -->
